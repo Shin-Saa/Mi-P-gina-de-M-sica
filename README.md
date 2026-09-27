@@ -11,3 +11,5 @@ Shiloh Terrazas
 
 ## Estado actual del proyecto
 En desarrollo activo (Fase inicial de diseño y contenidos).
+## Enlaces de interés
+- [Documentación oficial de Git](https://git-scm.com/doc)
